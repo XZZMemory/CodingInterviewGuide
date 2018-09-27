@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="" />
+    <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,8 +66,8 @@
       <file leaf-file-name="问题5用一个栈实现另一个栈的排序.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -140,6 +143,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -176,6 +190,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -227,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.问题4猫狗队列">
+  <component name="RunManager" selected="Application.问题5用一个栈实现另一个栈的排序">
     <configuration name="问题1设计一个有GetMin功能的栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第一章栈和队列.问题1设计一个有GetMin功能的栈.问题1设计一个有GetMin功能的栈" />
       <module name="CodingInterviewGuide" />
@@ -268,6 +283,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第一章栈和队列.问题4猫狗队列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="问题5用一个栈实现另一个栈的排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第一章栈和队列.问题5用一个栈实现另一个栈的排序" />
+      <module name="CodingInterviewGuide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第一章栈和队列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,9 +344,11 @@
       <item itemvalue="Application.问题2由两个栈组成的队列" />
       <item itemvalue="Application.问题3如何仅用递归和栈操作逆序一个栈" />
       <item itemvalue="Application.问题4猫狗队列" />
+      <item itemvalue="Application.问题5用一个栈实现另一个栈的排序" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.问题5用一个栈实现另一个栈的排序" />
         <item itemvalue="Application.问题4猫狗队列" />
         <item itemvalue="Application.问题3如何仅用递归和栈操作逆序一个栈" />
         <item itemvalue="Application.问题2由两个栈组成的队列" />
@@ -340,15 +368,16 @@
       <updated>1537962649862</updated>
       <workItem from="1537962654335" duration="1997000" />
       <workItem from="1537964818590" duration="1933000" />
-      <workItem from="1538012753190" duration="17347000" />
+      <workItem from="1538012753190" duration="18863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21277000" />
+    <option name="totallyTimeSpent" value="22793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -360,18 +389,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3988604" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,8 +477,14 @@
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -674,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
