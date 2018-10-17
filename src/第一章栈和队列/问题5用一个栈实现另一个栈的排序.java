@@ -13,7 +13,7 @@ public class 问题5用一个栈实现另一个栈的排序 {
     public static void main(String[] args)
     {
         Stack<Integer> stack=new Stack<>();
-        int[] data={3,1,2,4};
+        int[] data={3,1,6,5};
         for (int i=0;i<data.length;i++)
             stack.push(data[i]);
         sortStackByStack(stack);
