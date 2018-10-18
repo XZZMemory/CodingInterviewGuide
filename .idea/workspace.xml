@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/databaseTset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题10最大值减去最小值小于或等于num子数组数量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题6汉诺塔问题/传统汉诺塔问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题7生成窗口最大值数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题8构造数组的MaxTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题8构造数组的MaxTree/问题8构造数组的MaxTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题9求最大子矩阵的大小.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题1打印两个有序链表的公共部分/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题5反转部分单向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingInterviewGuide.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingInterviewGuide.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题5用一个栈实现另一个栈的排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题5用一个栈实现另一个栈的排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,20 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="删除链表的中间节点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java">
+      <file leaf-file-name="问题7判断一个单链表是否为回文结构.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="177">
+              <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="删除链表a除以b处的节点.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java">
+      <file leaf-file-name="问题8将单链表按某值划分成左边小中间相等右边大的形式.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="27" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="20" />
+            <state relative-caret-position="142">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -95,8 +92,8 @@
       <file leaf-file-name="DoubleNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="372">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <element signature="e#212#213#0" expanded="true" />
                 <element signature="e#244#245#0" expanded="true" />
@@ -108,8 +105,8 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="360">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
@@ -172,11 +169,17 @@
         <option value="$PROJECT_DIR$/src/第一章栈和队列/Node.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题1打印两个有序链表的公共部分/Main.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间节点和a除以b处的节点.java" />
-        <option value="$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java" />
-        <option value="$PROJECT_DIR$/src/第二章链表问题/Node.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.java" />
-        <option value="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题四翻转单向链表和双向链表/反转单向链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/Node.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题四翻转单向链表和双向链表/反转双向链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题5反转部分单向链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java" />
       </list>
     </option>
   </component>
@@ -195,7 +198,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="39" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
@@ -207,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,14 +240,11 @@
               <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="第二章链表问题" type="462c0819:PsiDirectoryNode" />
-              <item name="问题1打印两个有序链表的公共部分" type="462c0819:PsiDirectoryNode" />
+              <item name="问题3删除链表的中间结点和a除以b处的节点" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="第二章链表问题" type="462c0819:PsiDirectoryNode" />
-              <item name="问题3删除链表的中间结点和a除以b处的节点" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -251,7 +252,6 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.删除链表a除以b处的节点">
+  <component name="RunManager" selected="Application.问题8将单链表按某值划分成左边小中间相等右边大的形式">
     <configuration name="删除链表的中间节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题3删除链表的中间结点和a除以b处的节点.删除链表的中间节点" />
       <module name="CodingInterviewGuide" />
@@ -297,8 +297,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="问题2在单链表和双链表中删除倒数第K个节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题2在单链表和双链表中删除倒数第K个节点" />
+    <configuration name="反转双向链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题4翻转单向链表和双向链表.反转双向链表" />
+      <module name="CodingInterviewGuide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第二章链表问题.问题4翻转单向链表和双向链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="问题5反转部分单向链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题5反转部分单向链表" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -308,19 +319,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题1打印两个有序链表的公共部分.Main" />
+    <configuration name="问题7判断一个单链表是否为回文结构" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题7判断一个单链表是否为回文结构" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="第二章链表问题.问题1打印两个有序链表的公共部分.*" />
+          <option name="PATTERN" value="第二章链表问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第一章栈和队列.Main" />
+    <configuration name="问题8将单链表按某值划分成左边小中间相等右边大的形式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题8将单链表按某值划分成左边小中间相等右边大的形式" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -332,17 +343,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="删除链表a除以b处的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题3删除链表的中间结点和a除以b处的节点.删除链表a除以b处的节点" />
-      <module name="CodingInterviewGuide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第二章链表问题.问题3删除链表的中间结点和a除以b处的节点.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -383,19 +383,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.问题2在单链表和双链表中删除倒数第K个节点" />
+      <item itemvalue="Application.反转双向链表" />
+      <item itemvalue="Application.问题5反转部分单向链表" />
+      <item itemvalue="Application.问题7判断一个单链表是否为回文结构" />
       <item itemvalue="Application.删除链表的中间节点" />
-      <item itemvalue="Application.删除链表a除以b处的节点" />
+      <item itemvalue="Application.问题8将单链表按某值划分成左边小中间相等右边大的形式" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.删除链表a除以b处的节点" />
+        <item itemvalue="Application.问题8将单链表按某值划分成左边小中间相等右边大的形式" />
+        <item itemvalue="Application.问题7判断一个单链表是否为回文结构" />
         <item itemvalue="Application.删除链表的中间节点" />
-        <item itemvalue="Application.问题2在单链表和双链表中删除倒数第K个节点" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.问题5反转部分单向链表" />
+        <item itemvalue="Application.反转双向链表" />
       </list>
     </recent_temporary>
   </component>
@@ -415,12 +415,13 @@
       <workItem from="1538099279162" duration="8949000" />
       <workItem from="1539170400905" duration="1281000" />
       <workItem from="1539671833149" duration="34776000" />
-      <workItem from="1539781883057" duration="314000" />
+      <workItem from="1539781883057" duration="639000" />
+      <workItem from="1539829861720" duration="9956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68325000" />
+    <option name="totallyTimeSpent" value="78606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +450,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24071082" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
@@ -596,13 +597,37 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java</url>
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.java</url>
           <line>13</line>
           <properties />
-          <option name="timeStamp" value="52" />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题5反转部分单向链表.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="53" />
+      <option name="time" value="60" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -610,41 +635,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/DogCatQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -881,28 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -913,17 +881,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="-27">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题5反转部分单向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="20" />
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>

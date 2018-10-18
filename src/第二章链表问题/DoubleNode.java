@@ -13,7 +13,7 @@ public class DoubleNode {
         this.value=value;
     }
 
-    public static DoubleNode creatDoubleLinkedListWithoutHead(int[] data)
+    public static DoubleNode creatDoubleLinkWithoutHead(int[] data)
     {
         DoubleNode head=new DoubleNode(data[0]);
         head.next=null;
@@ -29,6 +29,16 @@ public class DoubleNode {
             p=q;
         }
         return head;
+    }
+    public static void traversalOfLinkWithoutHead(DoubleNode head)
+    {
+        DoubleNode p=head;
+        while (p!=null)
+        {
+            System.out.print(p.value+" ");
+            p=p.next;
+        }
+        System.out.println();
     }
 
 }

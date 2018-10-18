@@ -7,11 +7,11 @@ package 第二章链表问题;
 public class 问题2在单链表和双链表中删除倒数第K个节点 {
     public static void main(String[] args)
     {
-        Node head1=Node.creatLinkedListWithoutHead(new int[]{1,2,3,4,5});
+        Node head1=Node.creatLinkWithoutHead(new int[]{1,2,3,4,5});
         Node head1DeletedKthNode=removeLastKthNode(head1.next,1);
-        Node head2=Node.creatLinkedListWithHead(new int[]{1,2,3,4});
+        Node head2=Node.creatLinkWithHead(new int[]{1,2,3,4});
         Node head2DeletedKthNode=removeLastKthNode2(head1,1);
-        DoubleNode headDoubleNode=DoubleNode.creatDoubleLinkedListWithoutHead(new int[]{1,2,3});
+        DoubleNode headDoubleNode=DoubleNode.creatDoubleLinkWithoutHead(new int[]{1,2,3});
         DoubleNode headDoubleNodeDeleted=removeLastKthDoubleNode(headDoubleNode,3);
     }
     //剑指Offer上的方法,处理带头结点的链表

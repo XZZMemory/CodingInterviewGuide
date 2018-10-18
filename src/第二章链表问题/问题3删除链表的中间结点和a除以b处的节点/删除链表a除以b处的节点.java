@@ -10,7 +10,7 @@ import 第二章链表问题.Node;
 public class 删除链表a除以b处的节点 {
     public static void main(String[] args)
     {
-        Node head=Node.creatLinkedListWithoutHead(new int[]{1,2,3,4});
+        Node head=Node.creatLinkWithoutHead(new int[]{1,2,3,4});
         Node headDeleted=removeByRatio(head,3,4);
 
     }

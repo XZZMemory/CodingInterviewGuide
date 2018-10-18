@@ -11,7 +11,7 @@ public class Node {
     {
         this.value=value;
     }
-    public static Node creatLinkedListWithHead(int[] data) {
+    public static Node creatLinkWithHead(int[] data) {
         Node head = new Node(0);
         Node p = head;//head;
         for (int i = 0; i < data.length; i++) {
@@ -22,7 +22,7 @@ public class Node {
         }
         return head;
     }
-    public static Node creatLinkedListWithoutHead(int[] data) {
+    public static Node creatLinkWithoutHead(int[] data) {
         Node head=new Node(data[0]);
         Node p = head;//head;
         for (int i = 1; i < data.length; i++) {

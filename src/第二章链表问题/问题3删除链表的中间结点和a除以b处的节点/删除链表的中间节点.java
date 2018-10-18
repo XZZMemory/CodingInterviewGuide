@@ -10,7 +10,7 @@ public class 删除链表的中间节点 {
     public static int errorStatus=0;//利用一个全局变量，表示出错情况
     public static void main(String[] args)
     {
-        Node head=Node.creatLinkedListWithoutHead(new int[]{1,2,3,4});//创建的是不带头结点的链表
+        Node head=Node.creatLinkWithoutHead(new int[]{1,2,3,4});//创建的是不带头结点的链表
         Node headDeletedMid=removeMidNode(head);
     }
     //给定一个链表的头结点head，实现删除链表中间节点的函数
@@ -20,17 +20,15 @@ public class 删除链表的中间节点 {
             errorStatus=-1;//errorStatus=-1表示当前出错情况是链表为空！
             return null;
         }
-        if (head.next.next==null)
-            return head.next;
         Node fast=head.next.next;
         Node slow=head;
-        while (fast.next!=null&&fast.next.next!=null)
+        while (fast!=null&&fast.next!=null&&fast.next.next!=null)
         {
             slow=slow.next;
             fast=fast.next.next;
 
         }
-        slow.next=slow.next;
+        slow.next=slow.next.next;
         return head;
     }
     //带头结点的链表，得到中间节点
