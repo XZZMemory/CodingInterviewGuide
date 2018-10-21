@@ -11,7 +11,7 @@ public class 问题10两个单链表生成相加链表 {
     public static void main(String[] args)
     {
         Node head1=Node.creatLinkWithoutHead(new int[]{9,3,7});
-        Node head2=Node.creatLinkWithoutHead(new int[]{6,3});
+        Node head2=Node.creatLinkWithoutHead(new int[]{});
         Node head=addList2(head1,head2);
     }
     //方法一，利用栈
@@ -61,6 +61,10 @@ public class 问题10两个单链表生成相加链表 {
     //方法二利用链表的逆序求解，可以省掉用栈的空间
     public static Node addList2(Node head1,Node head2)
     {
+        if (head1==null)
+            return head2;
+        if (head2==null)
+            return head1;
         Node head1Reverse=reverseList(head1);
         Node head2Reverse=reverseList(head2);
         Node p1=head1Reverse;
@@ -89,6 +93,8 @@ public class 问题10两个单链表生成相加链表 {
             cur.next=pre;
             pre=cur;
         }
+        head1=reverseList(head1Reverse);
+        head2=reverseList(head2Reverse);
         return pre;
     }
     public static Node reverseList(Node head)
