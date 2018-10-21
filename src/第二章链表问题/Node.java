@@ -23,6 +23,8 @@ public class Node {
         return head;
     }
     public static Node creatLinkWithoutHead(int[] data) {
+        if (data==null||data.length==0)
+            return null;
         Node head=new Node(data[0]);
         Node p = head;//head;
         for (int i = 1; i < data.length; i++) {
