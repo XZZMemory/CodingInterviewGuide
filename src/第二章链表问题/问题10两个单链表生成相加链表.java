@@ -14,7 +14,7 @@ public class 问题10两个单链表生成相加链表 {
         Node head2=Node.creatLinkWithoutHead(new int[]{});
         Node head=addList2(head1,head2);
     }
-    //方法一，利用栈
+    //方法一，利用栈，将两个链表的元素均进栈，从而实现链表倒序操作
     public static Node addList1(Node head1,Node head2)
     {
         if (head1==null)
