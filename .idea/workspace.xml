@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/BiTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题15将二叉搜索树转换成双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题17一种怪异的节点删除方式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题12将单链表的每K个节点之间逆序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题12将单链表的每K个节点之间逆序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,26 +57,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="问题12将单链表的每K个节点之间逆序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题12将单链表的每K个节点之间逆序.java">
+      <file leaf-file-name="问题20按照左右半区的方式重新组合单链表.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="method#reverseKNodes#0;class#问题12将单链表的每K个节点之间逆序#0" />
-                <element signature="method#resign2#0;class#问题12将单链表的每K个节点之间逆序#0" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="问题13删除单链表中值重复出现的节点.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java">
+      <file leaf-file-name="问题19合并两个有序的单链表.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            <state relative-caret-position="124">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="问题18向有序的环形单链表中插入新节点.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#creatCircleLink#0;class#问题18向有序的环形单链表中插入新节点#0" />
               </folding>
             </state>
           </provider>
@@ -98,11 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈.java" />
-        <option value="$PROJECT_DIR$/src/第一章栈和队列/MyStack1.java" />
-        <option value="$PROJECT_DIR$/src/第一章栈和队列/MyStack2.java" />
-        <option value="$PROJECT_DIR$/src/第一章栈和队列/hgjkfd.java" />
-        <option value="$PROJECT_DIR$/src/第一章栈和队列/TwoStacksQueue.java" />
         <option value="$PROJECT_DIR$/src/第一章栈和队列/问题2由两个栈组成的队列.java" />
         <option value="$PROJECT_DIR$/src/第一章栈和队列/问题3如何仅用递归和栈操作逆序一个栈.java" />
         <option value="$PROJECT_DIR$/src/第一章栈和队列/Dog.java" />
@@ -146,6 +154,14 @@
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题11两个单链表相交的一系列问题.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题12将单链表的每K个节点之间逆序.java" />
         <option value="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/BiTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题15将二叉搜索树转换成双向链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题17一种怪异的节点删除方式.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java" />
+        <option value="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" />
       </list>
     </option>
   </component>
@@ -164,10 +180,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="39" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,7 +192,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,6 +231,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -251,9 +266,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.问题13删除单链表中值重复出现的节点">
-    <configuration name="问题10两个单链表生成相加链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题10两个单链表生成相加链表" />
+  <component name="RunManager" selected="Application.问题20按照左右半区的方式重新组合单链表">
+    <configuration name="问题14在单链表中删除指定值的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题14在单链表中删除指定值的节点" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -263,8 +278,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="问题11两个单链表相交的一系列问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题11两个单链表相交的一系列问题" />
+    <configuration name="问题16单链表的选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题16单链表的选择排序" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -274,8 +289,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="问题12将单链表的每K个节点之间逆序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题12将单链表的每K个节点之间逆序" />
+    <configuration name="问题18向有序的环形单链表中插入新节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题18向有序的环形单链表中插入新节点" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -285,8 +300,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="问题13删除单链表中值重复出现的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题13删除单链表中值重复出现的节点" />
+    <configuration name="问题19合并两个有序的单链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题19合并两个有序的单链表" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -296,8 +311,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="问题9复制含有随机指针节点的链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题9复制含有随机指针节点的链表" />
+    <configuration name="问题20按照左右半区的方式重新组合单链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题20按照左右半区的方式重新组合单链表" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -349,19 +364,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.问题9复制含有随机指针节点的链表" />
-      <item itemvalue="Application.问题10两个单链表生成相加链表" />
-      <item itemvalue="Application.问题11两个单链表相交的一系列问题" />
-      <item itemvalue="Application.问题12将单链表的每K个节点之间逆序" />
-      <item itemvalue="Application.问题13删除单链表中值重复出现的节点" />
+      <item itemvalue="Application.问题14在单链表中删除指定值的节点" />
+      <item itemvalue="Application.问题16单链表的选择排序" />
+      <item itemvalue="Application.问题18向有序的环形单链表中插入新节点" />
+      <item itemvalue="Application.问题19合并两个有序的单链表" />
+      <item itemvalue="Application.问题20按照左右半区的方式重新组合单链表" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.问题13删除单链表中值重复出现的节点" />
-        <item itemvalue="Application.问题12将单链表的每K个节点之间逆序" />
-        <item itemvalue="Application.问题11两个单链表相交的一系列问题" />
-        <item itemvalue="Application.问题10两个单链表生成相加链表" />
-        <item itemvalue="Application.问题9复制含有随机指针节点的链表" />
+        <item itemvalue="Application.问题20按照左右半区的方式重新组合单链表" />
+        <item itemvalue="Application.问题19合并两个有序的单链表" />
+        <item itemvalue="Application.问题18向有序的环形单链表中插入新节点" />
+        <item itemvalue="Application.问题16单链表的选择排序" />
+        <item itemvalue="Application.问题14在单链表中删除指定值的节点" />
       </list>
     </recent_temporary>
   </component>
@@ -383,12 +398,13 @@
       <workItem from="1539671833149" duration="34776000" />
       <workItem from="1539781883057" duration="639000" />
       <workItem from="1539829861720" duration="32005000" />
-      <workItem from="1540281564121" duration="3608000" />
+      <workItem from="1540281564121" duration="9417000" />
+      <workItem from="1540296129335" duration="6630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104263000" />
+    <option name="totallyTimeSpent" value="116702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,7 +433,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33190882" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
@@ -623,34 +639,78 @@
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="87" />
+      <option name="time" value="114" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="        Node head2=Node.creatLinkWithoutHead(new int[]{6,3});&#10;" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>head</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/hgjkfd.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/hfkjg.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/hkjhkj.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/jgdfgklf.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/发空间.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/hfjkds.java" />
-    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题2由两个栈组成的队列/问题2由两个栈组成的队列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -884,17 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题11两个单链表相交的一系列问题.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -951,13 +1000,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题17一种怪异的节点删除方式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题15将二叉搜索树转换成双向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state>
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/BiTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="method#creatCircleLink#0;class#问题18向有序的环形单链表中插入新节点#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
         </state>
       </provider>
     </entry>

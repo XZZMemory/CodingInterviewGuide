@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * 给定一个无序单链表的头节点head，删除其中值重复出现的节点
  * 要求：方法1：时间复杂度O(N)
- *      防范2：空间复杂度O(1)
+ *      方法2：空间复杂度O(1)
  */
 public class 问题13删除单链表中值重复出现的节点 {
     public static void  main(String[] args)
@@ -43,7 +43,7 @@ public class 问题13删除单链表中值重复出现的节点 {
             cur=next;
         }
     }
-    //往后检查到值相等的节点，均删除
+    //方法2，往后检查到值相等的节点，均删除，时间复杂度O(N*N)
     public static void removeRep2(Node head)
     {
 
