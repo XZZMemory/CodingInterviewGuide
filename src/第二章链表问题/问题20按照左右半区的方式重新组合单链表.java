@@ -12,7 +12,7 @@ package 第二章链表问题;
 public class 问题20按照左右半区的方式重新组合单链表 {
     public static void main(String[] args)
     {
-        Node head=Node.creatLinkWithoutHead(new int[]{1,2,3,6,7,8});
+        Node head=Node.creatLinkWithoutHead(new int[]{1,7,8});
         relocate(head);
     }
     public static void relocate(Node head)
@@ -31,7 +31,7 @@ public class 问题20按照左右半区的方式重新组合单链表 {
         left=head;
         Node rightNext=null;
         Node leftNext=null;
-        while (left!=null&&right!=null)
+        while (left.next!=null)
         {
             rightNext=right.next;
             leftNext=left.next;
@@ -40,5 +40,8 @@ public class 问题20按照左右半区的方式重新组合单链表 {
             left=leftNext;
             right=rightNext;
         }
+        left.next=right;
+
+
     }
 }

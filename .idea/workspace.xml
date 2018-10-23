@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/BiTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题15将二叉搜索树转换成双向链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题17一种怪异的节点删除方式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +51,8 @@
       <file leaf-file-name="问题20按照左右半区的方式重新组合单链表.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -399,12 +390,12 @@
       <workItem from="1539781883057" duration="639000" />
       <workItem from="1539829861720" duration="32005000" />
       <workItem from="1540281564121" duration="9417000" />
-      <workItem from="1540296129335" duration="6630000" />
+      <workItem from="1540296129335" duration="7335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116702000" />
+    <option name="totallyTimeSpent" value="117407000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,24 +665,6 @@
           <line>16</line>
           <properties />
           <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="113" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="114" />
@@ -1074,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>
