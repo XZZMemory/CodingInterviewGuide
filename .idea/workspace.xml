@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/第三章二叉树问题/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现先中后序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用非递归方式实现先中后遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题20按照左右半区的方式重新组合单链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题20按照左右半区的方式重新组合单链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java" afterDir="false" />
-    </list>
+    <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,17 +9,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CodingInterviewGuide$9.ic" NAME="问题9复制含有随机指针节点的链表 Coverage Results" MODIFIED="1540103954124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>第二章链表问题.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/CodingInterviewGuide$12K.ic" NAME="问题12将单链表的每K个节点之间逆序 Coverage Results" MODIFIED="1540281601356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>第二章链表问题.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/CodingInterviewGuide$2K.ic" NAME="问题2在单链表和双链表中删除倒数第K个节点 Coverage Results" MODIFIED="1539766012055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>第二章链表问题.*</FILTER>
-    </SUITE>
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="0" />
@@ -56,7 +37,7 @@
       <file leaf-file-name="问题20按照左右半区的方式重新组合单链表.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
+            <state relative-caret-position="630">
               <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
             </state>
           </provider>
@@ -65,7 +46,7 @@
       <file leaf-file-name="用递归方式实现先中后序遍历.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现先中后序遍历.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="240">
               <caret line="16" column="17" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
@@ -74,11 +55,8 @@
       <file leaf-file-name="用非递归方式实现先中后遍历.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用非递归方式实现先中后遍历.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="945">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +64,8 @@
       <file leaf-file-name="问题2打印二叉树的边界节点.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+            <state relative-caret-position="307">
+              <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -95,12 +73,8 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="180">
               <caret line="12" column="18" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,7 +82,7 @@
       <file leaf-file-name="问题19合并两个有序的单链表.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="240">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -117,11 +91,8 @@
       <file leaf-file-name="问题18向有序的环形单链表中插入新节点.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="165">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="method#creatCircleLink#0;class#问题18向有序的环形单链表中插入新节点#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -230,7 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,8 +235,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,18 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.问题2打印二叉树的边界节点">
-    <configuration name="用递归方式实现先中后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.用递归方式实现先中后序遍历" />
-      <module name="CodingInterviewGuide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Unknown.用递归方式实现先中后序遍历625762524">
     <configuration name="问题19合并两个有序的单链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第二章链表问题.问题19合并两个有序的单链表" />
       <module name="CodingInterviewGuide" />
@@ -319,17 +279,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第二章链表问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="用非递归方式实现先中后遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.用非递归方式实现先中后遍历" />
-      <module name="CodingInterviewGuide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,6 +301,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第三章二叉树问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="用递归方式实现先中后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.用递归方式实现先中后序遍历" />
+      <module name="CodingInterviewGuide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="用非递归方式实现先中后遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.用非递归方式实现先中后遍历" />
+      <module name="CodingInterviewGuide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第三章二叉树问题.问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,22 +368,6 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.问题19合并两个有序的单链表" />
-      <item itemvalue="Application.问题20按照左右半区的方式重新组合单链表" />
-      <item itemvalue="Application.用递归方式实现先中后序遍历" />
-      <item itemvalue="Application.用非递归方式实现先中后遍历" />
-      <item itemvalue="Application.问题2打印二叉树的边界节点" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.问题2打印二叉树的边界节点" />
-        <item itemvalue="Application.用非递归方式实现先中后遍历" />
-        <item itemvalue="Application.用递归方式实现先中后序遍历" />
-        <item itemvalue="Application.问题20按照左右半区的方式重新组合单链表" />
-        <item itemvalue="Application.问题19合并两个有序的单链表" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -451,38 +406,40 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33190882" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.33190882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25686592" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32905984" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32956383" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,235 +450,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.java</url>
-          <line>8</line>
-          <properties />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题3如何仅用递归和栈操作逆序一个栈.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题5用一个栈实现另一个栈的排序.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题8构造数组的MaxTree/问题8构造数组的MaxTree.java</url>
-          <line>84</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题8构造数组的MaxTree/问题8构造数组的MaxTree.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题9求最大子矩阵的大小.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题7生成窗口最大值数组.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题10最大值减去最小值小于或等于num子数组数量.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第一章栈和队列/问题10最大值减去最小值小于或等于num子数组数量.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题1打印两个有序链表的公共部分/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题5反转部分单向链表.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题7判断一个单链表是否为回文结构.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题9复制含有随机指针节点的链表.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题10两个单链表生成相加链表.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题11两个单链表相交的一系列问题.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题12将单链表的每K个节点之间逆序.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题13删除单链表中值重复出现的节点.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题14在单链表中删除指定值的节点.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题16单链表的选择排序.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="118" />
     </breakpoint-manager>
   </component>
@@ -808,13 +536,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e22c7ef-dae0-4a34-9553-de23ce73e470/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e22c7ef-dae0-4a34-9553-de23ce73e470/console.sql" />
     <entry file="das://5e22c7ef-dae0-4a34-9553-de23ce73e470/schema/test1/table/emp">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -847,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-593">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,10 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="method#removeLastKthNode#0;class#问题2在单链表和双链表中删除倒数第K个节点#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="method#creatLinkList#0;class#Main#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -994,10 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="method#reverseKNodes#0;class#问题12将单链表的每K个节点之间逆序#0" />
-            <element signature="method#resign2#0;class#问题12将单链表的每K个节点之间逆序#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1033,9 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,67 +751,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题18向有序的环形单链表中插入新节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="method#creatCircleLink#0;class#问题18向有序的环形单链表中插入新节点#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题19合并两个有序的单链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现二叉树的先中后序遍历.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现二叉树的先中后序遍历.java" />
     <entry file="file://$PROJECT_DIR$/src/第二章链表问题/问题20按照左右半区的方式重新组合单链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
+        <state relative-caret-position="630">
           <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="180">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用非递归方式实现先中后遍历.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="945">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现先中后序遍历.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="240">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        <state relative-caret-position="307">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
         </state>
       </provider>
     </entry>
