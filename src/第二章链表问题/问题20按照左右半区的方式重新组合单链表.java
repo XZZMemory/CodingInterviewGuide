@@ -41,7 +41,5 @@ public class 问题20按照左右半区的方式重新组合单链表 {
             right=rightNext;
         }
         left.next=right;
-
-
     }
 }
