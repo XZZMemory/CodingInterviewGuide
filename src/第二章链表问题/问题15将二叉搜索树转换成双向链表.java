@@ -1,6 +1,5 @@
 package 第二章链表问题;
 
-import com.sun.source.tree.BinaryTree;
 
 /**
  * created by memory
@@ -9,6 +8,7 @@ import com.sun.source.tree.BinaryTree;
 public class 问题15将二叉搜索树转换成双向链表 {
     public static void main(String[] args)
     {
+
         BiTreeNode root=BiTreeNode.CreatTree5();
 
 

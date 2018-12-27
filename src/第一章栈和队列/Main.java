@@ -11,7 +11,7 @@ public class Main {
         System.out.println(getNum(arr, 1));
     }
 
-    //for test
+    //for other.other.强软弱虚引用.强软弱虚引用
     public static int[] getRandomArray(int len){
         if (len < 0) {
             return null;
@@ -24,7 +24,7 @@ public class Main {
         return arr;
     }
 
-    //for test
+    //for other.other.强软弱虚引用.强软弱虚引用
     public static void printArray(int[] arr){
         if (arr != null) {
             for (int i=0;i<arr.length;i++){
