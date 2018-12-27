@@ -13,7 +13,10 @@ public class ReportManagerFactory {
         {
             r=new FinancialReportManager(tenantId);
             financialReportManager.put(tenantId,r);
+            System.out.println("financialReportManager为空");
         }
+        else
+            System.out.println("financialReportManager不为空");
         return r;
     }
     IReportManager getEmployeeReportManager(String tenantId)
