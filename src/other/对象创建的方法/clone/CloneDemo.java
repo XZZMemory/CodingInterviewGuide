@@ -1,6 +1,6 @@
 package other.对象创建的方法.clone;
 
-public class Test {
+public class CloneDemo {
     public static void main(String[] args)
     {
         Obj a=new Obj();

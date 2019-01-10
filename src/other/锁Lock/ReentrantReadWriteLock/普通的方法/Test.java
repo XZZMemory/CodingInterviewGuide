@@ -2,7 +2,7 @@ package other.锁Lock.ReentrantReadWriteLock.普通的方法;
 
 /**
  * 　　假如有多个线程要同时进行读操作的话，先看一下synchronized达到的效果：
- *   　　而改成用读写锁的话，看例子package other.锁Lock.ReentrantReadWriteLock.使用读写锁.Test
+ *   　　而改成用读写锁的话，看例子package other.锁Lock.ReentrantReadWriteLock.使用读写锁.CloneDemo
  */
 public class Test {
     public static void main(String[] args)  {

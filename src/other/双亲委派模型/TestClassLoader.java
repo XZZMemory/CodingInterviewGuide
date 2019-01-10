@@ -28,7 +28,7 @@ public class TestClassLoader extends ClassLoader {
         byte[] data = null;
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         try {
-            File file=new File("/Users/zhangzhewei/IdeaProjects/CodingInterviewGuide/src/other/双亲委派模型/Test.java");
+            File file=new File("/Users/zhangzhewei/IdeaProjects/CodingInterviewGuide/src/other/双亲委派模型/CloneDemo.java");
             System.out.println(file.length());
             is = new FileInputStream(file);
             int c = 0;
@@ -54,7 +54,7 @@ public class TestClassLoader extends ClassLoader {
                 TestClassLoader.class.getClassLoader(), "TestLoader");
         Class clazz;
         try {
-            clazz = loader.loadClass("other.强软弱虚引用.classloader.Test");
+            clazz = loader.loadClass("other.强软弱虚引用.classloader.CloneDemo");
             Object object = clazz.newInstance();
         } catch (Exception e) {
             e.printStackTrace();
