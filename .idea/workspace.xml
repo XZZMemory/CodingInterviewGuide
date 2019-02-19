@@ -2,30 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/ActionEvent事件/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Java虚拟机内存模型测试/Java虚拟机栈.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Java虚拟机内存模型测试/Java虚拟机栈.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/HandlStringListen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/HandlStringListen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/WindowActionEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ActionEvent事件/WindowActionEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/ExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/GC回收/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/GC回收/MyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/JDBC连接数据库/databaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/JDBC连接数据库/databaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/NIO/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/NIO/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Spring动态代理/RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Spring动态代理/RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Spring动态代理/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Spring动态代理/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/双亲委派模型/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/双亲委派模型/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/双亲委派模型/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/双亲委派模型/TestClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread$Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread$Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread$Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread$Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MultiThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Runner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Runner1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Runner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Runner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/多线程/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/对象创建的方法/clone/CloneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/对象创建的方法/clone/CloneDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/对象创建的方法/clone/Obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/对象创建的方法/clone/Obj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/EmployeeCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/EmployeeCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/EmployeeRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/EmployeeRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/SoftReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/SoftReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/软引用$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/软引用$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/软引用.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/强软弱虚引用/软引用.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/捕获异常/捕获异常.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/捕获异常/捕获异常.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/冒泡排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/冒泡排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/堆排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/堆排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/直接插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/排序算法/直接插入排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/最常用的五大算法/动态规划/DynamicPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/最常用的五大算法/动态规划/DynamicPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/利用Semaphore/ConcurrentPrint.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/Thread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/ThreadInterView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/有三个线程让他们按序循环不停的执行/我自己的想法/ThreadInterView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/EmployeeReportManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/EmployeeReportManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/FinancialReportManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/FinancialReportManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/IReportManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/IReportManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/ReportManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式1/ReportManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/FlyweightPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/FlyweightPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/享元模式/享元模式2/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/ProxyImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/ProxyImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/ProxyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/ProxyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/test/RealImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/ProxyImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/ProxyImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/ProxyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/ProxyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/代理模式/代理模式1/RealImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/DCL/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/DCL/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/DCL/SingletonPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/DCL/SingletonPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/SingleObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/SingleObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/SingletonPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/单例模式/SingletonPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/PrototypePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/PrototypePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/ShapeCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/ShapeCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/原型模式/原型模式1/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/FactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/FactoryPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/工厂模式/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/IPacketCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/IPacketCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketBodyCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketBodyCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketHTMLHeaderDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketHTMLHeaderDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketHTTPHeaderDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式1/PacketHTTPHeaderDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/DecoratorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/DecoratorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/RedShapeDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/RedShapeDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/ShapeDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/装饰者模式/装饰者模式2/ShapeDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/ConcreteSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/IObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/IObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/ISubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式1/ISubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/HexaObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/HexaObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/ObserverPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/ObserverPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/OctalObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/OctalObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/设计模式/观察者模式/观察者模式2/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/正确的Lock使用/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/正确的Lock使用/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/错误的Lock使用/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/错误的Lock使用/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/锁Lock/ReentrantReadWriteLock/普通的方法/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/阻塞队列/生产者消费者模式/Test2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/inter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/inter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用Object的wait和notifyAll方法/TestPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/我自己的想法/ThreadInterView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/我自己的想法/ThreadInterView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题10最大值减去最小值小于或等于num子数组数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题10最大值减去最小值小于或等于num子数组数量.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题2由两个栈组成的队列/TwoStacksQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题2由两个栈组成的队列/TwoStacksQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题2由两个栈组成的队列/问题2由两个栈组成的队列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题2由两个栈组成的队列/问题2由两个栈组成的队列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题3如何仅用递归和栈操作逆序一个栈.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题3如何仅用递归和栈操作逆序一个栈.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/DogCatQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/DogCatQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/PetEnterQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/PetEnterQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题4猫狗队列/问题4猫狗队列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题5用一个栈实现另一个栈的排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题5用一个栈实现另一个栈的排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题6汉诺塔问题/传统汉诺塔问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题6汉诺塔问题/传统汉诺塔问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题7生成窗口最大值数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题7生成窗口最大值数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题8构造数组的MaxTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题8构造数组的MaxTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题8构造数组的MaxTree/问题8构造数组的MaxTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题8构造数组的MaxTree/问题8构造数组的MaxTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题9求最大子矩阵的大小.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第一章栈和队列/问题9求最大子矩阵的大小.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现先中后序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用递归方式实现先中后序遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用非递归方式实现先中后遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题1分别用递归和非递归方式实现二叉树的先序中序和后序遍历/用非递归方式实现先中后遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题2打印二叉树的边界节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题2打印二叉树的边界节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/BiTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/BiTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/ComplexNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/ComplexNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题10两个单链表生成相加链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题10两个单链表生成相加链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题11两个单链表相交的一系列问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题11两个单链表相交的一系列问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题12将单链表的每K个节点之间逆序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题12将单链表的每K个节点之间逆序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题13删除单链表中值重复出现的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题14在单链表中删除指定值的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题14在单链表中删除指定值的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题15将二叉搜索树转换成双向链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题15将二叉搜索树转换成双向链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题16单链表的选择排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题16单链表的选择排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题17一种怪异的节点删除方式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题17一种怪异的节点删除方式.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题18向有序的环形单链表中插入新节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题18向有序的环形单链表中插入新节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题19合并两个有序的单链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题19合并两个有序的单链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题1打印两个有序链表的公共部分/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题1打印两个有序链表的公共部分/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题20按照左右半区的方式重新组合单链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题20按照左右半区的方式重新组合单链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题2在单链表和双链表中删除倒数第K个节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表a除以b处的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题3删除链表的中间结点和a除以b处的节点/删除链表的中间节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题4翻转单向链表和双向链表/反转单向链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题4翻转单向链表和双向链表/反转双向链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题5反转部分单向链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题5反转部分单向链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题7判断一个单链表是否为回文结构.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题7判断一个单链表是否为回文结构.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题8将单链表按某值划分成左边小中间相等右边大的形式.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题9复制含有随机指针节点的链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第二章链表问题/问题9复制含有随机指针节点的链表.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,101 +223,57 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1550589811">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.52" value="1" />
-          <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="data" value="1" />
-          <entry key="java" value="67" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="67" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="19" />
-          <entry key="java" value="26582" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="26582" />
-          <entry key="PLAIN_TEXT" value="19" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RealImage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/RealImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+            <state>
+              <caret line="50" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state>
               <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="-8">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandlStringListen.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state>
               <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,43 +282,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WindowActionEvent.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state>
               <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state>
               <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeFactory.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state>
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactoryPatternDemo.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state>
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -273,16 +399,10 @@
         <option value="$PROJECT_DIR$/src/inter/Main.java" />
         <option value="$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java" />
         <option value="$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java" />
-        <option value="$PROJECT_DIR$/src/other/ActionEvent事件/Main.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/other/ActionEvent事件/Main.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -290,12 +410,9 @@
       <select />
     </treeState>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -304,6 +421,7 @@
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="false" />
+      <showExcludedFiles Scope="false" ProjectPane="false" />
       <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames ProjectPane="false" />
       <autoscrollToSource ProjectPane="true" />
@@ -312,7 +430,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,37 +438,11 @@
               <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="inter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="ActionEvent事件" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,17 +450,17 @@
     <property name="SearchEverywhereHistoryKey" value="Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Object.class&#10;Object.hashCode&#9;null&#9;null&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545272593738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550569542852" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -398,17 +490,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="捕获异常" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.捕获异常.捕获异常" />
+  <component name="RunManager" selected="Application.问题1设计一个有GetMin功能的栈">
+    <configuration name="问题1设计一个有GetMin功能的栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第一章栈和队列.问题1设计一个有GetMin功能的栈.问题1设计一个有GetMin功能的栈" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.捕获异常.*" />
+          <option name="PATTERN" value="第一章栈和队列.问题1设计一个有GetMin功能的栈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.设计模式.工厂模式.FactoryPatternDemo" />
@@ -420,17 +515,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="FlyweightPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.设计模式.享元模式.享元模式2.FlyweightPatternDemo" />
-      <module name="CodingInterviewGuide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.设计模式.享元模式.享元模式2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.ActionEvent事件.Main" />
@@ -442,6 +529,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inter.Main" />
@@ -453,6 +543,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.设计模式.代理模式.代理模式1.ProxyPatternDemo" />
@@ -464,6 +557,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="排序算法.冒泡排序" />
@@ -478,68 +574,41 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+    <configuration default="true" type="TestNG">
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FlyweightPatternDemo" />
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.FactoryPatternDemo" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.问题1设计一个有GetMin功能的栈" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.问题1设计一个有GetMin功能的栈" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
-        <item itemvalue="Application.FlyweightPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -584,11 +653,12 @@
       <workItem from="1547263869881" duration="2066000" />
       <workItem from="1547269229356" duration="1533000" />
       <workItem from="1548258563260" duration="8156000" />
+      <workItem from="1550569222544" duration="314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218643000" />
+    <option name="totallyTimeSpent" value="218957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,48 +670,47 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32689655" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4124138" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.3627586" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info auto_hide="true" content_ui="combo" x="465" y="37" width="349" height="725" id="Project" order="0" weight="0.2819063" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
+      <window_info active="true" content_ui="combo" x="465" y="37" width="349" height="725" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39724138" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32905984" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32956383" />
+      <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="SciView" order="10" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959612" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41147542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39724138" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.39747635" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3262295" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959612" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -688,7 +757,6 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -924,67 +992,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/RealImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state>
+          <caret line="50" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java">
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state>
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -992,17 +1034,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state>
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="-8">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/问题1设计一个有GetMin功能的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第一章栈和队列/问题1设计一个有GetMin功能的栈/MyStack1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -1046,7 +1128,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1063,6 +1145,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
