@@ -7,61 +7,46 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String args[]) {
-        Scanner scanner = new Scanner(System.in);
-        while (scanner.hasNext()) {
-            int n = scanner.nextInt();
-            int[] a = new int[n];
-            for (int i = 0; i < n; i++)
-                a[i] = scanner.nextInt();
-            Arrays.sort(a);
+        System.out.println("fff"+null);
+        Main a=new Main();
+        int[] data={5,4,78,23,34,67,1};
+        a.quickSort(data,0,data.length-1);
+        System.out.println(data);
+    }
+    public void quickSort(int[] data,int start,int end)
+    {
+        if (data==null||data.length==0||start<0||end>=data.length)
+            return  ;
+        int middle=sort(data,start,end );
+        if (middle==-1)
+            return;
+        sort(data,start,middle-1);
+        sort(data,middle+1,end);
 
-            if (n == 1)
-                System.out.println("0 0");
-
-            int minCount = 1;
-            int min = Integer.MAX_VALUE;
-            boolean minIs0 = false;
-            for (int i = 0; i < n - 1; i++) {
-                int distance = a[i + 1] - a[i];
-                if (distance == 0) {
-                    minIs0 = true;
-                    break;
-                }
-                if (distance < min) {
-                    min = distance;
-                    minCount = 1;
-                } else if (distance == min)
-                    minCount++;
+    }
+    public int  sort(int[] data,int start,int end)
+    {
+        if (data==null||data.length==0||start<0||end>=data.length)
+            return -1 ;
+        int currentData=data[start];
+        while (start<end)
+        {
+            while (data[end]>=currentData&&start<end)
+                end--;
+            if (start<end)
+            {
+                data[start]=data[end];
+                start++;
             }
-            if (minIs0) {
-                minCount = 0;
-                int serial0Count = 0;
-                for (int i = 0; i < n - 1; i++) {
-                    int distance = a[i + 1] - a[i];
-                    if (distance != 0) {
-                        minCount += serial0Count * (serial0Count + 1) / 2;
-                        serial0Count = 0;
-                    } else
-                        serial0Count++;
-                }
-                minCount += serial0Count * (serial0Count + 1) / 2;
+            while (data[start]<currentData&&start<end)
+                start++;
+            if (start<end)
+            {
+                data[end]=data[start];
+                end--;
             }
-
-            long maxCount;
-            if (a[0] == a[n - 1])
-                maxCount = n * (n - 1) / 2;
-            else {
-                int i = 1;
-                while (i < n && a[i] == a[0])
-                    i++;
-                int j = n - 2;
-                while (j >= 0 && a[j] == a[n - 1])
-                    j--;
-                j = n - 1 - j;
-                maxCount = i * j;
-            }
-
-            System.out.println(minCount + " " + maxCount);
         }
+        data[start]=currentData;
+        return start;
     }
 }

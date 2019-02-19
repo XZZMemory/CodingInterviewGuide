@@ -24,7 +24,7 @@ public class LockPrint {private static int count = 0;
                         c1.await();
                     System.out.println("A");
                     count++;
-                    c2.signal();// 唤醒条件2
+                    c2.signal();// 唤醒条件2  object.wait()/ object.notify()
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
@@ -78,9 +78,11 @@ public class LockPrint {private static int count = 0;
     });
 
     public void fun() {
-        t3.start();
+
+        /*程序执行顺序和线程.start() 方法执行顺序无关*/
         t1.start();
         t2.start();
+        t3.start();
     }
 
     public static void main(String[] args) {

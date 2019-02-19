@@ -10,9 +10,9 @@ public class ThreadInterView {
         Thread1 thread1=new Thread1();
         Thread2 thread2=new Thread2();
         Thread3 thread3=new Thread3();
+
         while (true)
         {
-
             thread1.start();
             try {
             thread1.join();
@@ -37,7 +37,12 @@ public class ThreadInterView {
 class  Thread1 extends Thread {
     @Override
     public void run() {
-        for (int i = 0; i < 10; i++) {
+        while (true){
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             System.out.println("线程11111111111");
         }
     }
@@ -45,16 +50,24 @@ class  Thread1 extends Thread {
     class  Thread2 extends Thread{
         @Override
         public void run() {
-            for (int i = 0; i <17 ; i++) {
-                System.out.println("线程222222222");
-            }
-        }
+            while (true){
+                try {
+                    Thread.sleep(100);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                System.out.println("线程22222222222");
+            }        }
 }
 class  Thread3 extends Thread{
     @Override
     public void run() {
-        for (int i = 0; i <7 ; i++) {
-            System.out.println("线程33333333333");
-        }
-    }
+        while (true){
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            System.out.println("线程3333333333");
+        }    }
 }

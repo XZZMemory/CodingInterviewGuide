@@ -20,7 +20,7 @@ public class TestPrint {
                         try {
                             obj.wait();
                         } catch (InterruptedException e) {
-                            e.printStackTrace();
+                            e.printStackTrace(); //
                         }
                 }
             }
@@ -66,6 +66,7 @@ public class TestPrint {
     });
 
     public void fun() {
+        //main函数的执行结果和线程启动顺序无关
         t3.start();
         t1.start();
         t2.start();
