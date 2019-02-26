@@ -13,7 +13,7 @@ public class Node {
         this.value=value;
     }
 
-    public static Node CreatTree4()
+    public static Node creatTree4()
     {
         Node biTree=new Node(10);
         Node left1=new Node(6);

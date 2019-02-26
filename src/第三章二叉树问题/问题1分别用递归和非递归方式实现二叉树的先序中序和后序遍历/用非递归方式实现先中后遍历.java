@@ -11,7 +11,7 @@ import java.util.Stack;
 public class 用非递归方式实现先中后遍历 {
     public static void main(String[] args)
     {
-        Node root=Node.CreatTree4();
+        Node root=Node.creatTree4();
         preOrder(root);
     }
 

@@ -9,7 +9,7 @@ import 第三章二叉树问题.Node;
 public class 用递归方式实现先中后序遍历 {
     public static void main(String[] args)
     {
-        Node root=Node.CreatTree4();
+        Node root=Node.creatTree4();
         preOrder(root);
         inOrder(root);
         postOrder(root);
