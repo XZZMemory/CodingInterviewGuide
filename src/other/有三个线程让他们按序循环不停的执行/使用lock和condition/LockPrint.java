@@ -15,6 +15,7 @@ public class LockPrint {private static int count = 0;
     Condition c3 = lock.newCondition();
     Thread t1 = new Thread(new Runnable() {
 
+
         @Override
         public void run() {
             while (true) {

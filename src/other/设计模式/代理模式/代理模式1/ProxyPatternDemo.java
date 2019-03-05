@@ -1,5 +1,7 @@
 package other.设计模式.代理模式.代理模式1;
 
+import java.util.Collections;
+
 /**
  * created by memory
  * on 2018/12/28 下午3:16
