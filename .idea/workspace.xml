@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33d254b-8432-4d7e-96d3-0077d5c51f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other/Enum枚举对象/OrderTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/SeasonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/信号量Semaphore/SemaphoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/栅栏CyclicBarrier/BillTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/栅栏CyclicBarrier/TotalTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/第1打印一个目录下的所有子目录/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emportFileTest/xiao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Java语法糖/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Java语法糖/SwitchDemoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Enum枚举对象/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/Enum枚举对象/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题4二叉树的序列化与反序列化/SerializePro2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/第三章二叉树问题/问题4二叉树的序列化与反序列化/SerializePro2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum枚举对象/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/WeekDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingInterviewGuide/Other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +21,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Coding$xiao_html.dat" NAME="xiao.html Coverage Results" MODIFIED="1552639082828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="0" />
@@ -55,98 +50,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/SingleObject.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="8" selection-start-line="7" selection-end-line="8" />
+            <state relative-caret-position="2376">
+              <caret line="131" column="59" selection-start-line="131" selection-start-column="59" selection-end-line="131" selection-end-column="59" />
               <folding>
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#5748#5749#0" expanded="true" />
+                <element signature="e#5784#5785#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/Image.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="3828">
+              <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyImage.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-34">
+              <caret line="1213" column="16" selection-start-line="1213" selection-start-column="16" selection-end-line="1213" selection-end-column="16" />
+              <folding>
+                <element signature="e#16766#16767#0" expanded="true" />
+                <element signature="e#16801#16802#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/emportFileTest/xiao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="464">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#head#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/Lock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="168" column="20" lean-forward="true" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="922" lean-forward="true" selection-start-line="922" selection-end-line="922" />
             </state>
           </provider>
         </entry>
@@ -156,12 +101,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Kotlin File" />
         <option value="Interface" />
         <option value="Enum" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -180,16 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/Shape.java" />
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/Square.java" />
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/Circle.java" />
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/other/设计模式/工厂模式/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/inter/Main.java" />
-        <option value="$PROJECT_DIR$/src/other/ActionEvent事件/WindowActionEvent.java" />
-        <option value="$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/other/ActionEvent事件/Main.java" />
         <option value="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/Image.java" />
         <option value="$PROJECT_DIR$/src/other/简单项目开发/日历/CalendarBean.java" />
@@ -231,6 +166,16 @@
         <option value="$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLnkedlistDemo.java" />
         <option value="$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.java" />
+        <option value="$PROJECT_DIR$/src/coding/第1打印一个目录下的所有子目录/Method1.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Coder.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Test.java" />
+        <option value="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.java" />
+        <option value="$PROJECT_DIR$/src/other/Java语法糖/SwitchDemoString.java" />
+        <option value="$PROJECT_DIR$/src/other/Java语法糖/MapDemo.java" />
+        <option value="$PROJECT_DIR$/src/other/MapDemo.java" />
+        <option value="$PROJECT_DIR$/src/xiao.html" />
+        <option value="$PROJECT_DIR$/src/emportFileTest/xiao.html" />
       </list>
     </option>
   </component>
@@ -249,8 +194,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-12" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
@@ -270,37 +214,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviewGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviewGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist和linkedlist尾部插入元素效率对比" type="462c0819:PsiDirectoryNode" />
+              <item name="emportFileTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,10 +245,10 @@
     <property name="SearchEverywhereHistoryKey" value="Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Object.class&#10;Object.hashCode&#9;null&#9;null&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551772219108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552643312408" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/emportFileTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -320,15 +257,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaozhenzhen\IdeaProjects\Coding\src\emportFileTest" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="other.集合" />
       <recent name="other.并发包.同步辅助类" />
       <recent name="第三章二叉树问题.问题2打印二叉树的边界节点" />
       <recent name="other.test" />
       <recent name="other.有三个线程让他们按序循环不停的执行.我自己的想法" />
-      <recent name="other.有三个线程让他们按序循环不停的执行.利用Semaphore" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="other.设计模式.工厂模式" />
@@ -350,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraylistLinkedlistDemo">
+  <component name="RunManager" selected="JavaScript Debug.xiao.html">
     <configuration name="ArraylistLinkedlistDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.集合.arraylist和linkedlist尾部插入元素效率对比.ArraylistLinkedlistDemo" />
       <module name="CodingInterviewGuide" />
@@ -379,13 +319,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Enum枚举对象.Test2.Main" />
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.第1打印一个目录下的所有子目录.Method1" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.Enum枚举对象.Test2.*" />
+          <option name="PATTERN" value="coding.第1打印一个目录下的所有子目录.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,27 +333,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Enum枚举对象.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.集合.hashMap和hashTable.Test" />
       <module name="CodingInterviewGuide" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.Enum枚举对象.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.并发包.同步辅助类.信号量Semaphore.SemaphoreTest" />
-      <module name="CodingInterviewGuide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.并发包.同步辅助类.信号量Semaphore.*" />
+          <option name="PATTERN" value="other.集合.hashMap和hashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,6 +361,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="xiao.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Coding/CodingInterviewGuide/emportFileTest/xiao.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -445,19 +374,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.CyclicBarrierDemo" />
-      <item itemvalue="Application.SemaphoreTest" />
       <item itemvalue="Application.ArraylistLinkedlistDemo" />
+      <item itemvalue="Application.Method1" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JavaScript Debug.xiao.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.xiao.html" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Method1" />
         <item itemvalue="Application.ArraylistLinkedlistDemo" />
         <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="Application.SemaphoreTest" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -507,12 +436,18 @@
       <workItem from="1550655544835" duration="7091000" />
       <workItem from="1550737155196" duration="28426000" />
       <workItem from="1551152987358" duration="9928000" />
-      <workItem from="1551766517711" duration="4793000" />
+      <workItem from="1551766517711" duration="8558000" />
+      <workItem from="1551925751283" duration="1421000" />
+      <workItem from="1551927403210" duration="10739000" />
+      <workItem from="1552465631749" duration="335000" />
+      <workItem from="1552556046408" duration="280000" />
+      <workItem from="1552556674186" duration="670000" />
+      <workItem from="1552617782744" duration="7591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273351000" />
+    <option name="totallyTimeSpent" value="298152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,8 +462,8 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="465" y="37" width="349" height="725" id="Project" order="0" sideWeight="0.853229" visible="true" weight="0.022692889" />
-      <window_info id="Structure" order="1" sideWeight="0.14677104" side_tool="true" visible="true" weight="0.022692889" />
+      <window_info content_ui="combo" x="465" y="37" width="349" height="725" id="Project" order="0" sideWeight="0.24262296" weight="0.059757944" />
+      <window_info id="Structure" order="1" sideWeight="0.757377" side_tool="true" weight="0.23827533" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -536,18 +471,56 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32459018" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.16229509" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.04918033" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49919224" weight="0.04918033" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.50075644" side_tool="true" weight="0.58032787" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49919224" weight="0.6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5015129" side_tool="true" weight="0.43114755" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32568806" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32459018" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Database Console" order="11" weight="0.32905984" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="14" weight="0.23770492" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24886535" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3290469" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.3290469" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.32980332" />
+      <window_info anchor="right" id="Debug" order="12" weight="0.4334342" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="465" y="37" width="349" height="725" id="Project" order="0" sideWeight="0.24590164" visible="true" weight="0.16565809" />
+      <window_info id="Structure" order="1" sideWeight="0.7528642" side_tool="true" weight="0.34114978" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32459018" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.04918033" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49919224" weight="0.049099836" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5015129" side_tool="true" weight="0.43114755" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32459018" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="14" weight="0.23770492" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24886535" />
@@ -561,7 +534,7 @@
       <window_info anchor="right" id="SciView" order="10" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32980332" />
       <window_info anchor="right" id="Debug" order="12" weight="0.4334342" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -691,179 +664,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/阻塞队列实现生产者消费者模式/TestBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="28" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/阻塞队列实现生产者消费者模式/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/调用start方法和run方法的区别.java" />
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/调用start方法和调用run方法的区别/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="26" selection-start-line="24" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MyThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/多线程测试1/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MultiThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/对象创建的方法/clone/Obj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题3如何较为直观的打印二叉树.java" />
-    <entry file="file://$PROJECT_DIR$/src/other/对象创建的方法/clone/CloneDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题3如何较为直观的打印二叉树3/PrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题2打印二叉树的边界节点/printLeafNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="16" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题4二叉树的序列化与反序列化/SerializePro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="78" selection-start-line="78" selection-end-line="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题4二叉树的序列化与反序列化/SerializePro2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13222">
-          <caret line="657" selection-start-line="657" selection-end-line="657" />
-          <folding>
-            <element signature="e#24581#24582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/Synchronized测试/sy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="method#testSynchronized1#0;class#sy#0" />
-            <element signature="method#testSynchronized2#0;class#sy#0" />
-            <element signature="method#testSynchronized#0;class#sy#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/第三章二叉树问题/问题5遍历二叉树的神级方法/Preorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/data">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/ActionEvent事件/HandlStringListen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/WeekDay.class" />
-    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Main.class" />
     <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -878,30 +678,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/SeasonEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/OrderTypeEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1000,27 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="168" column="20" lean-forward="true" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="922" lean-forward="true" selection-start-line="922" selection-end-line="922" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/Image.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1028,33 +787,202 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="220">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/设计模式/代理模式/代理模式1/ProxyPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state>
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state>
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/Lock.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantReadWriteLock.java" />
+    <entry file="file://$PROJECT_DIR$/src/coding/第1打印一个目录下的所有子目录/Method1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Float.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/File.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Double.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/StringLatin1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Coder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/集合/hashMap和hashTable/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/集合/hashMap和hashTable/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Objects.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/jdk.compiler/com/sun/tools/javac/main/JavaCompiler.java" />
+    <entry file="file://$PROJECT_DIR$/src/other/MapDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Java语法糖/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Java语法糖/SwitchDemoString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/com/intellij/lang/javascript/flex/library/ECMAScript.js2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="3" selection-start-column="50" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/GC回收/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Enum枚举对象/Test2/SeasonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="131" column="59" selection-start-line="131" selection-start-column="59" selection-end-line="131" selection-end-column="59" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3828">
+          <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="1213" column="16" selection-start-line="1213" selection-start-column="16" selection-end-line="1213" selection-end-column="16" />
+          <folding>
+            <element signature="e#16766#16767#0" expanded="true" />
+            <element signature="e#16801#16802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emportFileTest/xiao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#head#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1099,7 +1027,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
