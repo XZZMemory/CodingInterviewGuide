@@ -262,6 +262,12 @@
               <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="Java语法糖" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章链表问题" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +280,7 @@
     <property name="SearchEverywhereHistoryKey" value="Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Object.class&#10;Object.hashCode&#9;null&#9;null&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552979413463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552979536511" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../joda" />
@@ -466,12 +472,12 @@
       <workItem from="1552556046408" duration="280000" />
       <workItem from="1552556674186" duration="670000" />
       <workItem from="1552617782744" duration="9162000" />
-      <workItem from="1552965541836" duration="4535000" />
+      <workItem from="1552965541836" duration="4783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304258000" />
+    <option name="totallyTimeSpent" value="304506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,11 +500,11 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32459018" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.28360656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.28360656" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49919224" weight="0.6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" sideWeight="0.49919224" visible="true" weight="0.6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5015129" side_tool="true" weight="0.43114755" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.33190882" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32459018" />
